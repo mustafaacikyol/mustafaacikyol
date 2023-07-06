@@ -1,8 +1,5 @@
 ### Hi there 👋
-certificates i got on kaggle website
-  https://www.kaggle.com/learn/certification/mustafaacikyol/pandas
 
-  
 <!--
 **mustafaacikyol/mustafaacikyol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
