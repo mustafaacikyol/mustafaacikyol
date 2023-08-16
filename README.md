@@ -4,7 +4,7 @@
 
 <a href="https://www.kaggle.com/mustafaacikyol/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="icon | kaggle"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaacikyol&layout=compact)](https://github.com/mustafaacikyol)
+
 
 <!--
 **mustafaacikyol/mustafaacikyol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
