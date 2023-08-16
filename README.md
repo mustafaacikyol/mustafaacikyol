@@ -2,7 +2,7 @@
 
 <a href="https://www.hackerrank.com/mustafaacikyol/"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="icon | hackerrank"/></a>
 
-<a href="https://www.kaggle.com/mustafaacikyol/"><img align="right" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="icon | kaggle"/></a>
+<a href="https://www.kaggle.com/mustafaacikyol/"><img align="left" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="icon | kaggle"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaacikyol&layout=compact)](https://github.com/mustafaacikyol)
 
