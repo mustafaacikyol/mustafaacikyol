@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mustafaacikyol)](https://github.com/mustafaacikyol)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaacikyol&layout=compact)](https://github.com/mustafaacikyol)
+
 <!--
 **mustafaacikyol/mustafaacikyol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
