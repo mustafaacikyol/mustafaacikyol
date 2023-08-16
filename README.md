@@ -10,8 +10,6 @@
 
 [2]: https://www.kaggle.com/mustafaacikyol
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mustafaacikyol)](https://github.com/mustafaacikyol)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaacikyol&layout=compact)](https://github.com/mustafaacikyol)
 
 <!--
