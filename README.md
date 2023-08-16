@@ -2,7 +2,9 @@
 
 I studied and worked as a Full Stack Developer. Currently I study on AI, data science, machine learning and deep learning.
 
-<a href="https://www.hackerrank.com/mustafaacikyol/"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="icon | hackerrank"/></a>
+<a href="https://www.codepen.io/mustafaacikyol/"><img align="left" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="icon | codepen"/></a>
+
+<a href="https://www.hackerrank.com/mustafaacikyol/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="icon | hackerrank"/></a>
 
 <a href="https://www.kaggle.com/mustafaacikyol/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="icon | kaggle"/></a>
 
