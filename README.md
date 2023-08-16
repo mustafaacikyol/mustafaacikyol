@@ -1,7 +1,5 @@
 ## Hi I'am Mustafa 👋
 
-## Connect with me
-
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white (hackerrank))][1]
 
 [1]: https://www.hackerrank.com/mustafaacikyol
