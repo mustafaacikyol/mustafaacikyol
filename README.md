@@ -1,10 +1,11 @@
 ## Hi I'am Mustafa 👋
-<!--
+
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white (hackerrank))][1]
 
 [1]: https://www.hackerrank.com/mustafaacikyol
--->
+<!--
 <a href=”https://www.hackerrank.com/mustafaacikyol/"><img align=”left” src=”https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=”icon | hackerrank” width=”21px”/></a>
+-->
 
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white (kaggle))][2]
 
