@@ -12,7 +12,7 @@ I studied and worked as a Full Stack Developer. Currently I study on AI, data sc
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mustafaacikyol&theme=light)](https://git.io/streak-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaacikyol&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mustafaacikyol/mustafaacikyol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
