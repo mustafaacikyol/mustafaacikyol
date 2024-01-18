@@ -7,9 +7,9 @@ I studied and worked as a Full Stack Developer. Nowadays I study on Machine Lear
 <a href="https://www.hackerrank.com/mustafaacikyol/"><img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="icon | hackerrank"/></a>
 <a href="https://www.kaggle.com/mustafaacikyol/"><img align="left" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="icon | kaggle"/></a>
 <a href="https://codepen.io/mustafaacikyol/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="icon | codepen"/></a>
-
-## My Stats 
 <!--
+## My Stats 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaacikyol&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--
