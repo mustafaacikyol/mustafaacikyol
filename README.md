@@ -13,7 +13,7 @@ I studied and worked as a Full Stack Developer. Nowadays I study on Machine Lear
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaacikyol&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaacikyol&hide='Jupyter Notebook')
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaacikyol&hide=jupyter_notebook)
 
 <!--
 **mustafaacikyol/mustafaacikyol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
