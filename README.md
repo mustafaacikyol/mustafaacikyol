@@ -1,6 +1,6 @@
 # Hi I'am Mustafa 👋
 
-I studied and worked as a Full Stack Developer. Nowadays I study on Machine Learning. I am enthusiast to contribute to solving real world problems using Artificial Intelligence.
+I studied and worked as a Full Stack Developer. Nowadays I study on Machine Learning and Computer Vision. I am enthusiast to contribute to solving real world problems using Artificial Intelligence.
 
 ## My Accounts
 
