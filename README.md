@@ -1,4 +1,4 @@
-B.Sc. in Computer Engineering @Kocaeli University.
+Hello, I'am Mustafa.
 
 I studied and worked as a Full Stack Developer. Nowadays I study on Machine Learning and Computer Vision. I am enthusiast to contribute to solving real world problems using Artificial Intelligence.
 
